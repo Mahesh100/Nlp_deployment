@@ -1,0 +1,41 @@
+# Flask==2.2.2
+# gunicorn==19.9.0
+# itsdangerous==1.1.0
+# Jinja2==2.10.1
+# MarkupSafe==1.1.1
+# Werkzeug==0.15.5
+# numpy>=1.9.2
+# scipy>=0.15.1
+# scikit-learn>=0.18
+# matplotlib>=1.4.3
+# pandas>=0.19
+# nltk>=3.4.5
+
+Flask
+gunicorn
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+numpy
+scipy
+scikit-learn
+matplotlib
+pandas
+nltk
+
+
+
+###########################
+
+tensorflow                    
+tensorflow-datasets           
+tensorflow-estimator          
+tensorflow-gcs-config       
+tensorflow-hub                
+tensorflow-io-gcs-filesystem  
+tensorflow-metadata           
+tensorflow-probability        
+termcolor                     
+terminado                     
+testpath                     
